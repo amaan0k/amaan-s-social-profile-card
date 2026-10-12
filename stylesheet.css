@@ -71,6 +71,13 @@ body{
     color: white;
 }
 
+.buttons :hover{
+    background-color: rgb(3, 33, 102);
+    cursor: pointer;
+    transition: .3s ;
+
+}
+
 .buttons{
     display: flex;
     gap: 10px;
